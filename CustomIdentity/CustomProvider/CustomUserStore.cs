@@ -127,8 +127,6 @@ namespace CustomIdentity.CustomProvider
         }
 
         public void Dispose()
-        {
-            //throw new NotImplementedException();
-        }
+        {}
     }
 }
